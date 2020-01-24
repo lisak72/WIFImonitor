@@ -1,0 +1,29 @@
+﻿<Window x:Class="WIFIMonitor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WIFIMonitor"
+        mc:Ignorable="d"
+        Title="NET Monitor v. 1.7  Jiri Liska, Institute of Botany Trebon, 2018" Height="550" Width="825">
+    <Grid x:Name="grid0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="131*"/>
+            <ColumnDefinition Width="131*"/>
+            <ColumnDefinition Width="131*"/>
+            <ColumnDefinition Width="131*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="Button0" Content="Check" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" Width="111" Cursor="None" Click="Button0_Click" Height="33"/>
+    </Grid>
+</Window>

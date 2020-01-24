@@ -1,0 +1,14 @@
+c:\users\bu2\documents\visual studio 2015\Projects\WIFIMonitor\WIFIMonitor\bin\Debug\WIFIMonitor.exe.config
+c:\users\bu2\documents\visual studio 2015\Projects\WIFIMonitor\WIFIMonitor\bin\Debug\WIFIMonitor.exe
+c:\users\bu2\documents\visual studio 2015\Projects\WIFIMonitor\WIFIMonitor\bin\Debug\WIFIMonitor.pdb
+c:\users\bu2\documents\visual studio 2015\Projects\WIFIMonitor\WIFIMonitor\obj\Debug\WIFIMonitor.csprojResolveAssemblyReference.cache
+c:\users\bu2\documents\visual studio 2015\Projects\WIFIMonitor\WIFIMonitor\obj\Debug\MainWindow.g.cs
+c:\users\bu2\documents\visual studio 2015\Projects\WIFIMonitor\WIFIMonitor\obj\Debug\App.g.cs
+c:\users\bu2\documents\visual studio 2015\Projects\WIFIMonitor\WIFIMonitor\obj\Debug\WIFIMonitor_MarkupCompile.cache
+c:\users\bu2\documents\visual studio 2015\Projects\WIFIMonitor\WIFIMonitor\obj\Debug\WIFIMonitor_MarkupCompile.lref
+c:\users\bu2\documents\visual studio 2015\Projects\WIFIMonitor\WIFIMonitor\obj\Debug\MainWindow.baml
+c:\users\bu2\documents\visual studio 2015\Projects\WIFIMonitor\WIFIMonitor\obj\Debug\WIFIMonitor.g.resources
+c:\users\bu2\documents\visual studio 2015\Projects\WIFIMonitor\WIFIMonitor\obj\Debug\WIFIMonitor.Properties.Resources.resources
+c:\users\bu2\documents\visual studio 2015\Projects\WIFIMonitor\WIFIMonitor\obj\Debug\WIFIMonitor.csproj.GenerateResource.Cache
+c:\users\bu2\documents\visual studio 2015\Projects\WIFIMonitor\WIFIMonitor\obj\Debug\WIFIMonitor.exe
+c:\users\bu2\documents\visual studio 2015\Projects\WIFIMonitor\WIFIMonitor\obj\Debug\WIFIMonitor.pdb
