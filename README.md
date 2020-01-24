@@ -7,7 +7,7 @@ is configured by file WIFIMonitor.cfg
 
 sample of  file WifiMonitor.cfg:
 #comment 
-# maximal count of devices is 35
+# maximal number of monitored devices is 35
 #file WIFIMonitor.cfg
 #refresh is in miliseconds
 $refresh=60000
